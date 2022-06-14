@@ -10,5 +10,6 @@ Goal of the Paper This Paper will talk about on the principles of Service Based 
 © Mohamed Mesto
 License under the [MIT License] (LICENSE).
 
+![](IIOT5GSeminar.jpg)
 
 
