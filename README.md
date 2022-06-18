@@ -17,7 +17,7 @@
 </tr>
   <tr>
     <td> </td>  <td align="center"><a href='https://www.av.tu-berlin.de/team/prof_dr_thomas_magedanz/'>Prof. Dr.-Ing. habil. Thomas Magedanz</a></td>
-    <td> </td>
+    <td>  <td align="center"><a href='https://www.linkedin.com/in/michael-pauls-442473138/'>Michael Pauls</a></td>
 </tr>
 </table>
 
