@@ -5,7 +5,7 @@
   <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.fokus.fraunhofer.de/assets/logo-860812875da0f0aa4d5ea48e795aac93b09affdb637eae121b367da604de8737.png"/></td>
 </tr>
 <tr border=0>
-<td> </td><td  align="center">Advanced Web Technologies <br> <h5> Seminar Topic </h5> </td><td> </td>
+<td> </td><td  align="center"> Seminar Topic <br></td><td> </td>
 </tr>
 <tr border=0>
 <td> </td><td> </td><td> </td>
